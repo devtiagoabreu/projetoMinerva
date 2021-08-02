@@ -1,0 +1,2 @@
+# projetoMinerva
+PHP/LARAVEL/REACT NATIVE
